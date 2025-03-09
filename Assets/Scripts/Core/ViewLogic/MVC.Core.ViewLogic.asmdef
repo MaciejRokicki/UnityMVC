@@ -1,0 +1,23 @@
+{
+    "name": "MVC.Core.ViewLogic",
+    "rootNamespace": "MVC.Core.ViewLogic",
+    "references": [
+        "GUID:cc42ee5df8a451e478ae6b4514001103",
+        "GUID:d1fda6441736e48438244d4c801c72e0",
+        "GUID:e332408edb82e1a45bf583d1d658109a",
+        "GUID:814cabfa3ce9fcf4ab6e626d3fde5021",
+        "GUID:0d0445c620da8e74d8229e1eb551c19f",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:33661e06c33d31b4c9223810bf503247"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
