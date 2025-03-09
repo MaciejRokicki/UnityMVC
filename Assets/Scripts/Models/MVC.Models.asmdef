@@ -1,7 +1,9 @@
 {
     "name": "MVC.Models",
     "rootNamespace": "MVC.Models",
-    "references": [],
+    "references": [
+        "GUID:cc42ee5df8a451e478ae6b4514001103"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

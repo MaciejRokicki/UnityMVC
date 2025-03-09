@@ -2,13 +2,13 @@
     "name": "MVC.Logic",
     "rootNamespace": "MVC.Logic",
     "references": [
+        "GUID:cc42ee5df8a451e478ae6b4514001103",
         "GUID:d1fda6441736e48438244d4c801c72e0",
         "GUID:e332408edb82e1a45bf583d1d658109a",
         "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
         "GUID:75469ad4d38634e559750d17036d5f7c",
         "GUID:f51ebe6a0ceec4240a699833d6309b23",
-        "GUID:77221876cc6b8244180b96e320b1bcd4",
-        "GUID:cc42ee5df8a451e478ae6b4514001103"
+        "GUID:77221876cc6b8244180b96e320b1bcd4"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

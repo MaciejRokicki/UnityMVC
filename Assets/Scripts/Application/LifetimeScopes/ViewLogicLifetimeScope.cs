@@ -5,7 +5,7 @@ using UnityEngine;
 using VContainer;
 using VContainer.Unity;
 
-namespace MVC.Application
+namespace MVC.Application.LifetimeScopes
 {
     public class ViewLogicLifetimeScope : LifetimeScope
     {
