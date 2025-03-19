@@ -1,8 +1,9 @@
 {
-    "name": "MVC.Common",
-    "rootNamespace": "MVC.Common",
+    "name": "MVC.MainMenu.Logic",
+    "rootNamespace": "MVC.MainMenu.Logic",
     "references": [
-        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+        "GUID:cc42ee5df8a451e478ae6b4514001103",
+        "GUID:580861899786d344ea562a19bfc2b4b2"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,8 +1,8 @@
 {
-    "name": "MVC.Common",
-    "rootNamespace": "MVC.Common",
+    "name": "MVC.Game.Model",
+    "rootNamespace": "MVC.Game.Model",
     "references": [
-        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+        "GUID:cc42ee5df8a451e478ae6b4514001103"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

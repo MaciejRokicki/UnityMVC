@@ -1,8 +1,10 @@
 {
-    "name": "MVC.Common",
-    "rootNamespace": "MVC.Common",
+    "name": "MVC.MainMenu.View",
+    "rootNamespace": "MVC.MainMenu.View",
     "references": [
-        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+        "GUID:cc42ee5df8a451e478ae6b4514001103",
+        "GUID:580861899786d344ea562a19bfc2b4b2",
+        "GUID:bb17126b97e37ac41beb7f694bce2017"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
